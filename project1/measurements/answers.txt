@@ -1,0 +1,11 @@
+Q2: predicted latency and throughput are 163 and 3.38 bits/second
+  The latency predicted was very close because latency needed to go through 4 switches to send the data to h4 from h1
+  The average RTT was 163.99
+
+Q3: The latency and throughput will be longer because there are more things all happening at once. 
+  RTT: 0.498 for s4 
+       0.883 for s1
+  3 pairs: 0.352, 0.375, 0.432
+  All the latency seemed to average around the same because I think they were all using the same paths. 
+  
+Q4: RTT: 43.189 ms, 163.549 ms 
